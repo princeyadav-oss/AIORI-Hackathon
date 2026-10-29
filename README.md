@@ -1,1 +1,1 @@
-# AIROI-Hckathon
+# AIROI-Hackathon
